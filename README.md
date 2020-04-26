@@ -1,6 +1,6 @@
-# vue-cli
+# myOrganizer
 
-> MyOrganizer- A Vue.js project
+> A VueJS project
 
 ## Build Setup
 
@@ -11,8 +11,5 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-
-
 ## Author
-
-Tal Erez.
+Tal Erez
